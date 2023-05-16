@@ -1,4 +1,4 @@
-import { link } from 'fs'
+// import { link } from 'fs'
 import React from 'react'
 import { IFooterAPI } from '../data/data'
 

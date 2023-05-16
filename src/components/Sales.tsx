@@ -1,5 +1,6 @@
 import React from 'react'
-import { IPopularSales, ITopRatesSlaes } from '../data/data';
+// import { IPopularSales, ITopRatesSlaes } from '../data/data';
+import {ITopRatesSlaes } from '../data/data';
 import Item from './utils/Item'
 import Title from './utils/Title'
 
