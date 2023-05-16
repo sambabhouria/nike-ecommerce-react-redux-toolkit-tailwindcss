@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Deploy
 
-🌏 ![demo] :()
+🌏 ![demo] :(https://earnest-meerkat-ec8514.netlify.app/)
 
 💻 Screen shot 💻
 
